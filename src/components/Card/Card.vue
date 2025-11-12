@@ -78,10 +78,14 @@ button {
     width: 100%;
     margin-block: 10px;
     cursor: pointer;
-    background: #0c2461;
+    background: #0C2461;
     font-weight: 600;
     border-radius: 8px;
     color: white;
+}
+
+button:hover{
+background: #0d2a72;
 }
 
 .flex-parent {
